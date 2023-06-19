@@ -1,0 +1,4 @@
+{
+  "extends": "@pegasus-ui/ts-config/base.json",
+  "include": ["src"]
+}

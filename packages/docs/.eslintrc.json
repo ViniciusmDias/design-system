@@ -1,0 +1,3 @@
+{
+  "extends": "@pegasus-ui/eslint-config"
+}
