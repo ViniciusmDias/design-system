@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/yamllint.json": "file:///home/viniciusdias/projects/personal-projects/design-system/.github/workflows/deploy-docs.yml"
+  }
+}
