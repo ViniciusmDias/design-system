@@ -24,7 +24,7 @@ const config = {
       config.base = '/design-system/'
     }
 
-    return config
+    return config 
   }
 };
 export default config;
