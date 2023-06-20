@@ -1,6 +1,6 @@
 {
   "name": "@pegasus-ui/tokens",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,7 +14,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@pegasus-ui/ts-config": "*", 
+    "@pegasus-ui/ts-config": "*",
     "@pegasus-ui/eslint-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.1.3"
