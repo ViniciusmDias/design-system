@@ -1,5 +1,11 @@
 # @pegasus-ui/react
 
+## 2.1.0
+
+### Minor Changes
+
+- 2da7d16: Add as propertie in Button component.
+
 ## 2.0.2
 
 ### Patch Changes
