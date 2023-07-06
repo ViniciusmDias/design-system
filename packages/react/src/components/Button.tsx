@@ -5,17 +5,17 @@ export const Button = styled('button', {
   all: 'unset',
   borderRadius: '$sm',
   fontSize: '$sm',
-  fontWeight: 'medium',
+  fontWeight: '$medium',
   fontFamily: '$default',
   textAlign: 'center',
   minWidth: 120,
   boxSizing: 'border-box',
+  padding: '$0 $4',
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'center',
   gap: '$2',
   cursor: 'pointer',
-  padding: '$2 $4',
 
   '&:disabled': {
     cursor: 'not-allowed'
@@ -36,7 +36,7 @@ export const Button = styled('button', {
         color: '$white',
         background: '$ignite500',
 
-        '&:not(:disabled):hovver': {
+        '&:not(:disabled):hover': {
           background: '$ignite300'
         },
 
