@@ -1,5 +1,11 @@
 # @pegasus-ui/react
 
+## 2.3.0
+
+### Minor Changes
+
+- Change color names to galactic.
+
 ## 2.2.0
 
 ### Minor Changes
