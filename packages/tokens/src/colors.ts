@@ -16,5 +16,5 @@ export const colors = {
   galactic700: '#015F43',
   galactic900: '#00291D',
 
-  test: '#FFF',
+  quiz300: '#cb0d67',
 }
